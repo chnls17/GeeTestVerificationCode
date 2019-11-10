@@ -3,8 +3,8 @@ URL = 'https://passport.bilibili.com/login'  # 登陆的网站
 
 # 用户名和密码
 USER = {
-    "USERNAME_OR_EMAIL": '1185056131@qq.com',
-    "PASSWORD": 'LSls199107'
+    "USERNAME_OR_EMAIL": 'xxxxxxxxxxx',
+    "PASSWORD": 'xxxxxxxxxxx'
 }
 
 BORDER = 6
